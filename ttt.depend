@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\manish\desktop\ttt\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1394960366 source:c:\users\manish\desktop\ttt\ttt.c
+	"ttt.h"
+
+1394960358 c:\users\manish\desktop\ttt\ttt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+
+1393902753 source:c:\users\manish\desktop\ttt\printing.c
+	"ttt.h"
+
+1393729924 source:c:\users\manish\desktop\ttt\ai.c
+	"ttt.h"
+
+1393767884 source:c:\users\manish\desktop\ttt\game.c
+	"ttt.h"
+
+1394220516 source:c:\users\manish\desktop\ttt\menu.c
+	"ttt.h"
+
+1394960578 source:c:\users\manish\desktop\ttt\utility.c
+	"ttt.h"
+
+1394218711 source:c:\users\manish\desktop\ttt\testing.c
+
+1393729924 source:e:\bct\1.1\programming\tic-tac-toe\ai.c
+	"ttt.h"
+
+1395385122 e:\bct\1.1\programming\tic-tac-toe\ttt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+
+1393767884 source:e:\bct\1.1\programming\tic-tac-toe\game.c
+	"ttt.h"
+
+1394220516 source:e:\bct\1.1\programming\tic-tac-toe\menu.c
+	"ttt.h"
+
+1393902753 source:e:\bct\1.1\programming\tic-tac-toe\printing.c
+	"ttt.h"
+
+1394218711 source:e:\bct\1.1\programming\tic-tac-toe\testing.c
+
+1394960366 source:e:\bct\1.1\programming\tic-tac-toe\ttt.c
+	"ttt.h"
+
+1394960578 source:e:\bct\1.1\programming\tic-tac-toe\utility.c
+	"ttt.h"
+
