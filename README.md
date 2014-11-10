@@ -9,6 +9,10 @@ It stores scores in a binary file. So a score file of one computer may not be re
 by another computer. So to run this program for the first time, make sure you have deleted
 the existing `scores.b` file.
 
+This game can be played in both single-player and double-player modes. For single-player
+mode, there are three diffculty levels. In the hard difficulty level, we used the
+*minimax* algorithm to make the computer unbeatable.
+
 
 Requirements
 ------------
